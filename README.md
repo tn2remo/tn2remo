@@ -4,4 +4,4 @@ Hi there, I'm Tarik Nural, a Software Engineer M.Sc., specializing in software-i
 
 ## 📫 Let's Connect
 
-Feel free to reach out to me via [email](mailto:tariknural00@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tarik-nural/). You can also check out my [Blog](https://adevblog.site) to see my posts related with my interests.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/tarik-nural/). You can also check out my [Blog](https://adevblog.site) to see my posts related with my interests.
