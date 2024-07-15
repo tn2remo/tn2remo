@@ -1,6 +1,6 @@
 # Hi there, I'm Tarik Nural 👋
 
-Hi there, I'm Tarik Nural, a Software Engineer M.Sc., specializing in software-intensive distributed systems. My passion lies in developing software that is highly available, scalable, and fault-tolerant. I favor Java, Go, Kotlin, and Typescript as my go-to languages for their versatility and robustness.
+Hi there, I'm Tarik, a Software Engineer M.Sc., specializing in software-intensive distributed systems. My passion lies in developing software that is highly available, scalable, and fault-tolerant. I favor Java, Go, Kotlin, and Typescript as my go-to languages for their versatility and robustness.
 
 ## 📫 Let's Connect
 
