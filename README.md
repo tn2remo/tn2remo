@@ -4,4 +4,4 @@ Hi there, I'm Tarik, a Software Engineer M.Sc., specializing in software-intensi
 
 ## 📫 Let's Connect
 
-Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/tanu2exp/). You can also check out my [Blog](https://adevblog.site) to see my posts related with my interests.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/tanu2exp/). You can also check out my [Blog](https://adevblog.site) to see my posts related with my interests.
